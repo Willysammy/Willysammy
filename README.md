@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Willysammy
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning C-programming
-- 💞️ I’m looking to collaborate on Machine learning, software development 
+- 👋 Hi, I’m Samuel
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning C-programming language 
+- 💞️ I’m looking to collaborate on projects revolving around software engineering.
 
 <!---
 Willysammy/Willysammy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
