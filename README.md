@@ -4,7 +4,7 @@
 - 💞️ How to reach me: olorunfemi693@gmail.com
 - 😎 Fact: I am a software engineering student at ALX Africa, cohort 9.
 
-I am dedicated to learning and creating new things.
+I am dedicated to learning and creating new things everyday.
 
 
 
